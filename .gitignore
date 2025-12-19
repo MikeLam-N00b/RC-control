@@ -1,0 +1,12 @@
+.vscode/
+*.bin
+*.elf
+*.pio/
+*.pioenvs/
+*.exe
+.DS_Store
+# Arduino build folders
+build/
+
+# User secrets
+credentials.json
